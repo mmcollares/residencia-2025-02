@@ -3,3 +3,4 @@
 ## Camila Lima - 2, 8, 9, 11
 ## Joao Pedro - 1, 6, 15, 19
 ### Amanda - 3, 5, 10, 20
+## Jean Carlos - 5, 9, 17, 19
